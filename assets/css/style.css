@@ -5,3 +5,14 @@ body {
     background-attachment: fixed;
     background-color: black;
   }
+
+  #questionPlaceCSS {
+    background-color: red;
+    color: yellow;
+  }
+
+  #titleText {
+    color: yellow;
+    text-align: center;
+
+  }
