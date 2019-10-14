@@ -7,8 +7,8 @@ body {
   }
 
   #questionPlaceCSS {
-    background-color: red;
-    color: yellow;
+    background-color: rgb(157, 4, 4);
+    color: rgb(233, 199, 2);
   }
 
   #titleText {
