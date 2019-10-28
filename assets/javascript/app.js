@@ -6,28 +6,28 @@ var questionObjsArray = [
 
     {
         question: "1) What is Harry Potter's middle name?",
-        answers: ["James", "Winston", "Ronald", "Albus"],
-        correctAnswer: "James"
+        answers: [" James ", " Winston ", " Ronald ", " Albus "],
+        correctAnswer: " James "
     },
     {
         question: "2) What is Harry's owl's name?",
-        answers: ["Alice", "Hedwig", "Phineus", "Billius"],
-        correctAnswer: "Hedwig"
+        answers: [" Alice ", " Hedwig ", " Phineus ", " Billius "],
+        correctAnswer: " Hedwig "
     },
     {
         question: "3) What is the first horcrux Harry finds?",
-        answers: ["Diadem", "Cup", "Diary", "Locket"],
-        correctAnswer: "Diary"
+        answers: [" Diadem ", " Cup ", " Diary ", " Locket "],
+        correctAnswer: " Diary "
     },
     {
         question: "4) In what kind of car does Ron fly?",
-        answers: ["Toyota Camry", "Ferrari Enzo", "Chevy Silverado", "Ford Anglia"],
-        correctAnswer: "Ford Anglia"
+        answers: [" Toyota Camry ", " Ferrari Enzo ", " Chevy Silverado ", " Ford Anglia "],
+        correctAnswer: " Ford Anglia "
     },
     {
         question: "5) What is Hermione's cat's name?",
-        answers: ["Crookshanks", "Fezzywig", "Fluffy", "Tabitha"],
-        correctAnswer: "Crookshanks"
+        answers: [" Crookshanks ", " Fezzywig ", " Fluffy ", " Tabitha "],
+        correctAnswer: " Crookshanks "
     }
 ];
 

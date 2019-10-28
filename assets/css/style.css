@@ -8,11 +8,21 @@ body {
 
   #questionPlaceCSS {
     background-color: rgb(157, 4, 4);
-    color: rgb(233, 199, 2);
+    color: rgb(190, 190, 69);
   }
 
   #titleText {
-    color: yellow;
+    color: rgb(255, 255, 196);
     text-align: center;
 
+  }
+
+  #quizAreaCSS {
+    color: rgb(190, 190, 69);
+    text-align: center;
+  }
+
+  #timerPlaceCSS {
+    color: rgb(190, 97, 69);
+    text-align: center;
   }
